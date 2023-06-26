@@ -1,4 +1,4 @@
-import "./styles.css";
+//import "./styles.css";
 
 "use strict";
 var first_rod = document.getElementById("rod-one");
